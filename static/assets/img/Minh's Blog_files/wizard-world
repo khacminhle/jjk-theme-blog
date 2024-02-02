@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Wizard World';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Wizard World'), url('https://fonts.cdnfonts.com/s/37296/WizardWorldSimplified-Kxr7.woff') format('woff');
+}
+
+
